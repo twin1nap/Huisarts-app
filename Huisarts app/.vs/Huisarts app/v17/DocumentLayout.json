@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joran\\Documents\\GitHub\\Huisarts-app\\Huisarts app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF82953-A7DA-44F0-B087-962181B9E3FB}|Huisarts app.csproj|c:\\users\\joran\\documents\\github\\huisarts-app\\huisarts app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAF82953-A7DA-44F0-B087-962181B9E3FB}|Huisarts app.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF82953-A7DA-44F0-B087-962181B9E3FB}|Huisarts app.csproj|c:\\users\\joran\\documents\\github\\huisarts-app\\huisarts app\\pati\u00EBnten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAF82953-A7DA-44F0-B087-962181B9E3FB}|Huisarts app.csproj|solutionrelative:pati\u00EBnten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF82953-A7DA-44F0-B087-962181B9E3FB}|Huisarts app.csproj|c:\\users\\joran\\documents\\github\\huisarts-app\\huisarts app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF82953-A7DA-44F0-B087-962181B9E3FB}|Huisarts app.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\joran\\Documents\\GitHub\\Huisarts-app\\Huisarts app\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\joran\\Documents\\GitHub\\Huisarts-app\\Huisarts app\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:42:02.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pati\u00EBnten.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joran\\Documents\\GitHub\\Huisarts-app\\Huisarts app\\pati\u00EBnten.cs",
+              "RelativeDocumentMoniker": "pati\u00EBnten.cs",
+              "ToolTip": "C:\\Users\\joran\\Documents\\GitHub\\Huisarts-app\\Huisarts app\\pati\u00EBnten.cs [Design]*",
+              "RelativeToolTip": "pati\u00EBnten.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:36:22.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joran\\Documents\\GitHub\\Huisarts-app\\Huisarts app\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\joran\\Documents\\GitHub\\Huisarts-app\\Huisarts app\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:31:40.644Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
