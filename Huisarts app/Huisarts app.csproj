@@ -52,19 +52,37 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Notitie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Notitie.Designer.cs">
+      <DependentUpon>Notitie.cs</DependentUpon>
+    </Compile>
     <Compile Include="patiënten.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="patiënten.Designer.cs">
       <DependentUpon>patiënten.cs</DependentUpon>
     </Compile>
+    <Compile Include="PatiëntForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PatiëntForm.Designer.cs">
+      <DependentUpon>PatiëntForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Notitie.resx">
+      <DependentUpon>Notitie.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="patiënten.resx">
       <DependentUpon>patiënten.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatiëntForm.resx">
+      <DependentUpon>PatiëntForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -87,6 +105,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrarydB\ClassLibrarydB.csproj">
+      <Project>{862e65e0-2f47-4fd2-b48c-8c51dbc0a967}</Project>
+      <Name>ClassLibrarydB</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
